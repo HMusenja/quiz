@@ -1,0 +1,664 @@
+{
+    "levels": {
+        "1": [
+            {
+                "question": "What does HTML stand for?",
+                "options": [
+                    "Hyper Text Markup Language",
+                    "Home Tool Markup Language",
+                    "Hyperlinks and Text Markup Language",
+                    "Hyper Tool Multi Language"
+                ],
+                "correctAnswer": "Hyper Text Markup Language",
+                "explanation": "HTML stands for Hyper Text Markup Language."
+            },
+            {
+                "question": "Which HTML tag is used to create a hyperlink?",
+                "options": [
+                    "<link>",
+                    "<a>",
+                    "<href>",
+                    "<hyperlink>"
+                ],
+                "correctAnswer": "<a>",
+                "explanation": "The <a> tag is used to create a hyperlink in HTML."
+            },
+            {
+                "question": "Which HTML tag is used for creating an ordered list?",
+                "options": [
+                    "<ul>",
+                    "<ol>",
+                    "<li>",
+                    "<dl>"
+                ],
+                "correctAnswer": "<ol>",
+                "explanation": "The <ol> tag is used to create an ordered list in HTML."
+            },
+            {
+                "question": "Which attribute is used to provide alternative text for an image in HTML?",
+                "options": [
+                    "title",
+                    "alt",
+                    "src",
+                    "caption"
+                ],
+                "correctAnswer": "alt",
+                "explanation": "The 'alt' attribute is used to provide alternative text for an image in HTML."
+            },
+            {
+                "question": "What does CSS stand for?",
+                "options": [
+                    "Creative Style Sheets",
+                    "Cascading Style Sheets",
+                    "Colorful Style Sheets",
+                    "Computer Style Sheets"
+                ],
+                "correctAnswer": "Cascading Style Sheets",
+                "explanation": "CSS stands for Cascading Style Sheets."
+            },
+            {
+                "question": "Which property is used to change the background color in CSS?",
+                "options": [
+                    "color",
+                    "background-color",
+                    "bgcolor",
+                    "background"
+                ],
+                "correctAnswer": "background-color",
+                "explanation": "The 'background-color' property is used to change the background color in CSS."
+            },
+            {
+                "question": "Which CSS property is used to change the text color of an element?",
+                "options": [
+                    "color",
+                    "font-color",
+                    "text-color",
+                    "foreground-color"
+                ],
+                "correctAnswer": "color",
+                "explanation": "The 'color' property is used to change the text color of an element in CSS."
+            },
+            {
+                "question": "What is the default value of the 'position' property in CSS?",
+                "options": [
+                    "static",
+                    "relative",
+                    "absolute",
+                    "fixed"
+                ],
+                "correctAnswer": "static",
+                "explanation": "The default value of the 'position' property in CSS is 'static'."
+            },
+            {
+                "question": "Which of the following is a block-level element in HTML?",
+                "options": [
+                    "<span>",
+                    "<div>",
+                    "<a>",
+                    "<img>"
+                ],
+                "correctAnswer": "<div>",
+                "explanation": "<div> is a block-level element in HTML."
+            },
+            {
+                "question": "Which CSS property controls the text size?",
+                "options": [
+                    "font-size",
+                    "text-size",
+                    "font-weight",
+                    "text-style"
+                ],
+                "correctAnswer": "font-size",
+                "explanation": "The 'font-size' property controls the text size in CSS."
+            },
+            {
+                "question": "Which HTML tag is used to define a table?",
+                "options": [
+                    "<table>",
+                    "<tr>",
+                    "<td>",
+                    "<th>"
+                ],
+                "correctAnswer": "<table>",
+                "explanation": "The <table> tag is used to define a table in HTML."
+            },
+            {
+                "question": "What is the purpose of the <head> tag in HTML?",
+                "options": [
+                    "It contains metadata and links to external resources",
+                    "It displays the main content of the page",
+                    "It creates the structure of the document",
+                    "It defines the footer of the page"
+                ],
+                "correctAnswer": "It contains metadata and links to external resources",
+                "explanation": "The <head> tag contains metadata and links to external resources like CSS and JavaScript files."
+            },
+            {
+                "question": "Which tag is used to define a paragraph in HTML?",
+                "options": [
+                    "<p>",
+                    "<para>",
+                    "<paragraph>",
+                    "<text>"
+                ],
+                "correctAnswer": "<p>",
+                "explanation": "The <p> tag is used to define a paragraph in HTML."
+            },
+            {
+                "question": "Which CSS property is used to set the spacing between lines of text?",
+                "options": [
+                    "line-height",
+                    "letter-spacing",
+                    "text-spacing",
+                    "word-spacing"
+                ],
+                "correctAnswer": "line-height",
+                "explanation": "The 'line-height' property is used to set the spacing between lines of text in CSS."
+            },
+            {
+                "question": "Which tag is used to add a heading in HTML?",
+                "options": [
+                    "<heading>",
+                    "<h1>",
+                    "<header>",
+                    "<title>"
+                ],
+                "correctAnswer": "<h1>",
+                "explanation": "The <h1> to <h6> tags are used to add headings in HTML, with <h1> being the highest level."
+            }
+        ],
+        "2": [
+            {
+                "question": "Which of the following is used to style web pages?",
+                "options": [
+                    "HTML",
+                    "CSS",
+                    "Python",
+                    "Java"
+                ],
+                "correctAnswer": "CSS",
+                "explanation": "CSS (Cascading Style Sheets) is used to style web pages."
+            },
+            {
+                "question": "Which of the following is a valid CSS unit?",
+                "options": [
+                    "px",
+                    "em",
+                    "rem",
+                    "All of the above"
+                ],
+                "correctAnswer": "All of the above",
+                "explanation": "px, em, and rem are all valid CSS units for defining sizes."
+            },
+            {
+                "question": "Which of the following is used to add interactivity to web pages?",
+                "options": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "SQL"
+                ],
+                "correctAnswer": "JavaScript",
+                "explanation": "JavaScript is used to add interactivity to web pages."
+            },
+            {
+                "question": "Which of the following HTML elements is used for creating forms?",
+                "options": [
+                    "<form>",
+                    "<input>",
+                    "<button>",
+                    "All of the above"
+                ],
+                "correctAnswer": "All of the above",
+                "explanation": "The <form>, <input>, and <button> elements are all used in creating forms in HTML."
+            },
+            {
+                "question": "What is the purpose of the 'flex' property in CSS?",
+                "options": [
+                    "It allows flexible layout creation in a flex container",
+                    "It controls the visibility of an element",
+                    "It defines the alignment of text",
+                    "It applies a fixed layout to an element"
+                ],
+                "correctAnswer": "It allows flexible layout creation in a flex container",
+                "explanation": "The 'flex' property in CSS is used to create flexible layouts within a flex container."
+            },
+            {
+                "question": "Which HTML tag is used to include an external JavaScript file?",
+                "options": [
+                    "<script>",
+                    "<js>",
+                    "<include>",
+                    "<link>"
+                ],
+                "correctAnswer": "<script>",
+                "explanation": "The <script> tag is used to include an external JavaScript file in HTML."
+            },
+            {
+                "question": "Which CSS property is used to create rounded corners?",
+                "options": [
+                    "corner-radius",
+                    "border-radius",
+                    "radius",
+                    "rounding"
+                ],
+                "correctAnswer": "border-radius",
+                "explanation": "The 'border-radius' property is used to create rounded corners in CSS."
+            },
+            {
+                "question": "Which of the following is not a valid HTML element?",
+                "options": [
+                    "<header>",
+                    "<footer>",
+                    "<main>",
+                    "<section>",
+                    "<page>"
+                ],
+                "correctAnswer": "<page>",
+                "explanation": "<page> is not a valid HTML element."
+            },
+            {
+                "question": "Which of the following is a semantic HTML element?",
+                "options": [
+                    "<div>",
+                    "<span>",
+                    "<article>",
+                    "<br>"
+                ],
+                "correctAnswer": "<article>",
+                "explanation": "The <article> tag is a semantic HTML element, indicating a self-contained content block."
+            },
+            {
+                "question": "What is the purpose of the <meta> tag in HTML?",
+                "options": [
+                    "It provides metadata about the document",
+                    "It links to external resources",
+                    "It defines the main content area",
+                    "It creates a navigation menu"
+                ],
+                "correctAnswer": "It provides metadata about the document",
+                "explanation": "The <meta> tag in HTML provides metadata about the document, such as descriptions, keywords, and author information."
+            },
+            {
+                "question": "Which of the following is a JavaScript framework?",
+                "options": [
+                    "React",
+                    "Laravel",
+                    "Django",
+                    "Flask"
+                ],
+                "correctAnswer": "React",
+                "explanation": "React is a popular JavaScript framework used for building user interfaces."
+            },
+            {
+                "question": "Which of the following CSS properties is used to change the font of text?",
+                "options": [
+                    "font-family",
+                    "font-style",
+                    "font-weight",
+                    "font-size"
+                ],
+                "correctAnswer": "font-family",
+                "explanation": "The 'font-family' property is used to change the font of text in CSS."
+            },
+            {
+                "question": "Which method is used to add an event listener to an HTML element in JavaScript?",
+                "options": [
+                    "addEventListener",
+                    "attachEvent",
+                    "bindEvent",
+                    "setEvent"
+                ],
+                "correctAnswer": "addEventListener",
+                "explanation": "The 'addEventListener' method is used to add an event listener to an HTML element in JavaScript."
+            },
+            {
+                "question": "Which of the following is used to import a CSS file into an HTML document?",
+                "options": [
+                    "<import>",
+                    "<link>",
+                    "<style>",
+                    "<css>"
+                ],
+                "correctAnswer": "<link>",
+                "explanation": "The <link> tag is used to import a CSS file into an HTML document."
+            },
+            {
+                "question": "Which of the following is a correct way to write a comment in JavaScript?",
+                "options": [
+                    "<!-- This is a comment -->",
+                    "// This is a comment",
+                    "/* This is a comment */",
+                    "// This is a comment"
+                ],
+                "correctAnswer": "// This is a comment",
+                "explanation": "In JavaScript, comments are written using // for single-line comments or /* */ for multi-line comments."
+            }
+        ],
+        "3": [
+            {
+                "question": "What is the purpose of the 'z-index' property in CSS?",
+                "options": [
+                    "It controls the stacking order of elements",
+                    "It sets the zoom level of an element",
+                    "It determines the display order of elements",
+                    "It specifies the size of an element"
+                ],
+                "correctAnswer": "It controls the stacking order of elements",
+                "explanation": "The 'z-index' property in CSS controls the stacking order of elements that overlap."
+            },
+            {
+                "question": "Which JavaScript method is used to select an element by its ID?",
+                "options": [
+                    "getElementById",
+                    "querySelector",
+                    "getElementByClass",
+                    "getElementByTagName"
+                ],
+                "correctAnswer": "getElementById",
+                "explanation": "The 'getElementById' method is used to select an element by its ID in JavaScript."
+            },
+            {
+                "question": "Which HTML attribute is used to specify a unique identifier for an element?",
+                "options": [
+                    "class",
+                    "id",
+                    "name",
+                    "tag"
+                ],
+                "correctAnswer": "id",
+                "explanation": "The 'id' attribute is used to specify a unique identifier for an element in HTML."
+            },
+            {
+                "question": "Which of the following is a valid way to declare a JavaScript variable?",
+                "options": [
+                    "var myVariable;",
+                    "let myVariable;",
+                    "const myVariable;",
+                    "All of the above"
+                ],
+                "correctAnswer": "All of the above",
+                "explanation": "In JavaScript, variables can be declared using 'var', 'let', or 'const'."
+            },
+            {
+                "question": "Which CSS property is used to control the visibility of an element?",
+                "options": [
+                    "display",
+                    "visibility",
+                    "opacity",
+                    "All of the above"
+                ],
+                "correctAnswer": "All of the above",
+                "explanation": "'display', 'visibility', and 'opacity' can all affect the visibility of an element in CSS."
+            },
+            {
+                "question": "What is the default value of the 'display' property in CSS?",
+                "options": [
+                    "block",
+                    "inline",
+                    "none",
+                    "inline-block"
+                ],
+                "correctAnswer": "inline",
+                "explanation": "The default value of the 'display' property in CSS is 'inline'."
+            },
+            {
+                "question": "Which method is used to remove the last element from an array in JavaScript?",
+                "options": [
+                    "pop()",
+                    "push()",
+                    "shift()",
+                    "unshift()"
+                ],
+                "correctAnswer": "pop()",
+                "explanation": "The 'pop()' method removes the last element from an array in JavaScript."
+            },
+            {
+                "question": "Which CSS property is used to set the space between letters?",
+                "options": [
+                    "letter-spacing",
+                    "word-spacing",
+                    "text-spacing",
+                    "line-height"
+                ],
+                "correctAnswer": "letter-spacing",
+                "explanation": "The 'letter-spacing' property is used to set the space between letters in CSS."
+            },
+            {
+                "question": "Which JavaScript keyword is used to declare a constant?",
+                "options": [
+                    "let",
+                    "var",
+                    "const",
+                    "constant"
+                ],
+                "correctAnswer": "const",
+                "explanation": "The 'const' keyword is used to declare a constant in JavaScript."
+            },
+            {
+                "question": "Which of the following is not a valid JavaScript data type?",
+                "options": [
+                    "Number",
+                    "String",
+                    "Boolean",
+                    "Character"
+                ],
+                "correctAnswer": "Character",
+                "explanation": "'Character' is not a valid data type in JavaScript."
+            },
+            {
+                "question": "Which of the following is used to add a comment in HTML?",
+                "options": [
+                    "// This is a comment",
+                    "/* This is a comment */",
+                    "<!-- This is a comment -->",
+                    "'This is a comment"
+                ],
+                "correctAnswer": "<!-- This is a comment -->",
+                "explanation": "In HTML, comments are added using <!-- and -->."
+            },
+            {
+                "question": "What does the 'reduce' method do in JavaScript?",
+                "options": [
+                    "Accumulates values in an array into a single result",
+                    "Filters values from an array",
+                    "Iterates over values in an array",
+                    "Maps values from one array to another"
+                ],
+                "correctAnswer": "Accumulates values in an array into a single result",
+                "explanation": "The 'reduce' method applies a function against an accumulator and each element in the array to reduce it to a single value."
+            },
+            {
+                "question": "Which CSS property is used to change the background image of an element?",
+                "options": [
+                    "background",
+                    "background-image",
+                    "image",
+                    "background-color"
+                ],
+                "correctAnswer": "background-image",
+                "explanation": "The 'background-image' property is used to change the background image of an element in CSS."
+            },
+            {
+                "question": "What does the 'return' keyword do in JavaScript?",
+                "options": [
+                    "Ends the execution of a function and returns a value",
+                    "Exits the current loop",
+                    "Saves a value to a variable",
+                    "Declares a function"
+                ],
+                "correctAnswer": "Ends the execution of a function and returns a value",
+                "explanation": "The 'return' keyword in JavaScript ends the execution of a function and returns a value."
+            }
+        ],
+        "4": [
+            {
+                "question": "What is the purpose of the 'box-sizing' property in CSS?",
+                "options": [
+                    "It defines how the total width and height of an element is calculated",
+                    "It sets the size of the content box",
+                    "It controls the size of the border box",
+                    "It specifies the padding of an element"
+                ],
+                "correctAnswer": "It defines how the total width and height of an element is calculated",
+                "explanation": "The 'box-sizing' property in CSS defines how the total width and height of an element is calculated, either including or excluding padding and borders."
+            },
+            {
+                "question": "Which method is used to parse a JSON string into a JavaScript object?",
+                "options": [
+                    "JSON.parse()",
+                    "JSON.stringify()",
+                    "JSON.toObject()",
+                    "JSON.decode()"
+                ],
+                "correctAnswer": "JSON.parse()",
+                "explanation": "The 'JSON.parse()' method is used to parse a JSON string into a JavaScript object."
+            },
+            {
+                "question": "Which of the following is used to add a comment in CSS?",
+                "options": [
+                    "<!-- This is a comment -->",
+                    "// This is a comment",
+                    "'This is a comment",
+                    "/* This is a comment */"
+                ],
+                "correctAnswer": "/* This is a comment */",
+                "explanation": "In CSS, comments are added using /* and */."
+            },
+            {
+                "question": "Which of the following is not a valid JavaScript loop?",
+                "options": [
+                    "for",
+                    "while",
+                    "foreach",
+                    "do-while"
+                ],
+                "correctAnswer": "foreach",
+                "explanation": "'foreach' is not a valid loop in JavaScript. The correct method is 'forEach'."
+            },
+            {
+                "question": "Which of the following is a CSS preprocessor?",
+                "options": [
+                    "Sass",
+                    "Bootstrap",
+                    "Tailwind",
+                    "jQuery"
+                ],
+                "correctAnswer": "Sass",
+                "explanation": "Sass is a CSS preprocessor that extends CSS with features like variables, nested rules, and mixins."
+            },
+            {
+                "question": "What does the 'defer' attribute do in a <script> tag?",
+                "options": [
+                    "It delays the execution of the script until the page has finished parsing",
+                    "It loads the script asynchronously",
+                    "It prevents the script from executing",
+                    "It ensures the script is executed before the page loads"
+                ],
+                "correctAnswer": "It delays the execution of the script until the page has finished parsing",
+                "explanation": "The 'defer' attribute delays the execution of the script until the HTML document has been fully parsed."
+            },
+            {
+                "question": "Which of the following is a JavaScript package manager?",
+                "options": [
+                    "npm",
+                    "pip",
+                    "gem",
+                    "composer"
+                ],
+                "correctAnswer": "npm",
+                "explanation": "npm (Node Package Manager) is a JavaScript package manager used to install and manage JavaScript packages."
+            },
+            {
+                "question": "What is the purpose of the 'transform' property in CSS?",
+                "options": [
+                    "It allows rotation, scaling, skewing, and moving elements",
+                    "It changes the color of an element",
+                    "It defines the size of an element",
+                    "It sets the opacity of an element"
+                ],
+                "correctAnswer": "It allows rotation, scaling, skewing, and moving elements",
+                "explanation": "The 'transform' property in CSS is used to apply 2D and 3D transformations to an element, such as rotation, scaling, and skewing."
+            },
+            {
+                "question": "Which of the following is not a valid JavaScript function declaration?",
+                "options": [
+                    "function myFunction() {}",
+                    "let myFunction = function() {};",
+                    "const myFunction = () => {};",
+                    "function = myFunction() {};"
+                ],
+                "correctAnswer": "function = myFunction() {};",
+                "explanation": "'function = myFunction() {};' is not a valid JavaScript function declaration."
+            },
+            {
+                "question": "Which of the following methods is used to remove whitespace from both sides of a string in JavaScript?",
+                "options": [
+                    "trim()",
+                    "slice()",
+                    "replace()",
+                    "substring()"
+                ],
+                "correctAnswer": "trim()",
+                "explanation": "The 'trim()' method is used to remove whitespace from both sides of a string in JavaScript."
+            },
+            {
+                "question": "What is the purpose of the 'data-*' attribute in HTML?",
+                "options": [
+                    "To store custom data private to the page or application",
+                    "To link to external data sources",
+                    "To define data types for form inputs",
+                    "To create interactive data tables"
+                ],
+                "correctAnswer": "To store custom data private to the page or application",
+                "explanation": "The 'data-*' attribute in HTML is used to store custom data private to the page or application."
+            },
+            {
+                "question": "Which of the following is a valid way to create a JavaScript object?",
+                "options": [
+                    "let obj = {};",
+                    "let obj = new Object();",
+                    "let obj = Object.create(null);",
+                    "All of the above"
+                ],
+                "correctAnswer": "All of the above",
+                "explanation": "JavaScript objects can be created using any of the methods: {}, new Object(), or Object.create(null)."
+            },
+            {
+                "question": "Which of the following is a valid CSS media query?",
+                "options": [
+                    "@media (max-width: 600px) {}",
+                    "@query (max-width: 600px) {}",
+                    "@screen (max-width: 600px) {}",
+                    "@device (max-width: 600px) {}"
+                ],
+                "correctAnswer": "@media (max-width: 600px) {}",
+                "explanation": "'@media (max-width: 600px) {}' is a valid CSS media query used to apply styles when the screen width is 600px or less."
+            },
+            {
+                "question": "Which of the following JavaScript functions can be used to convert a string to an integer?",
+                "options": [
+                    "parseInt()",
+                    "parseFloat()",
+                    "toFixed()",
+                    "toString()"
+                ],
+                "correctAnswer": "parseInt()",
+                "explanation": "The 'parseInt()' function in JavaScript converts a string to an integer."
+            },
+            {
+                "question": "What does the 'map' method do in JavaScript?",
+                "options": [
+                    "Creates a new array by applying a function to each element of an existing array",
+                    "Filters elements from an array based on a condition",
+                    "Accumulates array values into a single result",
+                    "Iterates over elements of an array"
+                ],
+                "correctAnswer": "Creates a new array by applying a function to each element of an existing array",
+                "explanation": "The 'map' method in JavaScript creates a new array by applying a function to each element of an existing array."
+            }
+        ]
+    }
+}
+
+

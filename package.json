@@ -1,0 +1,14 @@
+{
+  "name": "quiz-project",
+  "version": "1.0.0",
+  "description": "A quiz game project",
+  "main": "script.js",
+  "type": "module", 
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0" 
+
+  }
+}
